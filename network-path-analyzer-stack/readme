@@ -1,0 +1,5 @@
+OCI Resource Manager stack for network path analyzer.
+
+This analyzer can be used as ping check, from host in site 1 to host in site 2. 
+A site can be OCI region or on-prem data room. 
+
